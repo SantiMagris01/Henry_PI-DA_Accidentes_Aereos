@@ -14,7 +14,7 @@ Hemos definido dos KPIs clave para evaluar el rendimiento en seguridad de la avi
 
 Tasa de Fatalidad de la Tripulación en la Última Década: Evaluamos la disminución de un 10% en la tasa de fatalidad de la tripulación en los últimos 10 años, en comparación con la década anterior.
 
-Tasa de Supervivencia de Pasajeros: Evaluamos el aumento de un 10% en la tasa de supervivencia de Pasajeros en los ultimos 10 años, en comparacion a la decada anterior.
+Porcentaje de supervivencia de Tripulantes : Evaluamos el aumento de un 10% en el porcentaje de supervivencia de los tripulantes en los ultimos 10 años, en comparacion a la decada anterior.
 
 ## Disclaimer
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
